@@ -1,0 +1,17 @@
+{
+  "name" : "vosweb",
+  "description" : "the ThinkPHP Framework",
+  "version" : "3.2.3",
+  "require" : {
+    "php" : ">=5.3.0"
+  },
+  "authors" : [ {
+    "name" : "liu21st",
+    "email" : "liu21st@gmail.com"
+  } ],
+  "keywords" : [ "framework", "thinkphp", "ORM" ],
+  "minimum-stability" : "dev",
+  "type" : "framework",
+  "license" : "Apache2",
+  "homepage" : "http://thinkphp.cn/"
+}
